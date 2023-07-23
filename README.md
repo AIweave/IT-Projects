@@ -5,7 +5,7 @@
   - [osTicket: Post-Installation Configuration]()
   - [osTicket: Ticket Lifecycle Examples]()
 - Microsoft Azure
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols]()
+  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AIweave/microsoft-azure)
   - [Configuring Active Directory within Azure Virtual Machines]()
 ## 🤝 Let's connect: 
 
