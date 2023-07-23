@@ -2,7 +2,7 @@
 ## Information Technology Projects:
 - osTicktet (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/AIweave/osticket-Prerequisites-and-Installation)
-  - [osTicket: Post-Installation Configuration]()
+  - [osTicket: Post-Installation Configuration](https://github.com/AIweave/osTicket-Post-Installation-Configuration/blob/main/README.md)
   - [osTicket: Ticket Lifecycle Examples]()
 - Microsoft Azure
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AIweave/microsoft-azure)
