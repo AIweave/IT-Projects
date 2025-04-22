@@ -7,8 +7,6 @@
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/AIweave/microsoft-azure)
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/AIweave/Configuring-Active-Directory-Within-Azure-VMs/blob/main/README.md)
   - [Creating an A-Record and CNAME Record](https://github.com/AIweave/Creating-an-A-Record-and-CNAME-Record)
-## 🤝 Let's connect: 
 
-Linkedin: [
-](https://www.linkedin.com/in/demonté-weaver-12a3a4284/)https://www.linkedin.com/in/demonté-weaver-12a3a4284/
+
 
