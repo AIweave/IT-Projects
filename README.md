@@ -8,6 +8,6 @@
   - [Configuring Active Directory within Azure Virtual Machines](https://github.com/AIweave/Configuring-Active-Directory-Within-Azure-VMs/blob/main/README.md)
   - [Creating an A-Record and CNAME Record](https://github.com/AIweave/Creating-an-A-Record-and-CNAME-Record)
 - Network Configurations
-  - [Create DNS Addresses](https://github.com/AIweave/Create-DNS-Addresses)
+  - [Create DNS Addresses (Manually)](https://github.com/AIweave/Create-DNS-Addresses)
   
 
