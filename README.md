@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Weaver, an [IT Professional](https://www.linkedin.com/in/demonté-weaver-12a3a4284/)
+# 👋 Hi, I'm Weaver, an [IT Support Techncian](https://www.linkedin.com/in/demonté-weaver-12a3a4284/)
 ## Information Technology Projects:
 - osTicket (Help Desk Ticketing System)
   - [osTicket: Prerequisites and Installation](https://github.com/AIweave/osticket-Prerequisites-and-Installation)
